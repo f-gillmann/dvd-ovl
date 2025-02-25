@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+build/
+dist/
+*.elf
+*.nso
+*.pfs0
+*.nacp
+*.nro
+*.nsp
+*.npdm
+*.bz2
+*.dksh
+*.ovl
+sys-led-*.*.zip
